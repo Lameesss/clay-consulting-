@@ -261,7 +261,7 @@ const Features = () => {
                                         <div className="relative w-full max-w-[240px] aspect-square mb-25 md:mb-0">
                                             <div className="relative w-full h-full overflow-hidden rounded-3xl">
                                                 <Image
-                                                    src="/images/thumb/card3.3.png"
+                                                    src="/images/thumb/card3.png"
                                                     alt="Sub Card"
                                                     fill
                                                     className="object-contain"
